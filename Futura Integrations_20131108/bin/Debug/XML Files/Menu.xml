@@ -1,0 +1,21 @@
+<Application>
+	<Menus>
+		<action type="add">
+			<Menu Checked="0" Enabled="1" FatherUID="43520" Position="13" String="Futura Interface" Type="2" UniqueID="Z_mnu_FU002" Image="">
+				<Menus>
+					<action type="add">
+            <Menu Checked="0" Enabled="1" FatherUID="Z_mnu_FU002" Position="0" String="Transaction Mapping" Type="1" UniqueID="mnu_Branch" />
+
+            <!--<Menu Checked="0" Enabled="1" FatherUID="Z_mnu_FU002" Position="1" String="Brand Mapping" Type="1" UniqueID="mnu_Brand" />-->
+
+            <Menu Checked="0" Enabled="1" FatherUID="Z_mnu_FU002" Position="2" String="Import  Documents" Type="1" UniqueID="Z_mnu_FU003" />
+						<!--<Menu Checked="0" Enabled="1" FatherUID="Z_mnu_FU002" Position="1" String="Future Integration" Type="1" UniqueID="Z_mnu_FU004" />-->
+					</action>
+				</Menus>
+			</Menu>
+			
+			
+			
+		</action>
+	</Menus>
+</Application>
